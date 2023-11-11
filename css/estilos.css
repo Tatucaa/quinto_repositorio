@@ -1,0 +1,18 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(https://fotografias.larazon.es/clipping/cmsimages02/2020/04/06/7618A133-2F2D-4878-9943-E02353D4FF1B/98.jpg?crop=1820,1024,x0,y0&width=1900&height=1069&optimize=low&format=webply);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+
+}
+nav
+{
+    background-color: #ff0af354;
+    padding: 0%;
+    color: white;
+}
